@@ -1,0 +1,27 @@
+{
+  "name": "jquery.autocomplete",
+  "description": "A jquery based automatic completion plug-in",
+  "main": [
+    "./dist/js/jquery.autocomplete.js",
+    "./dist/css/jquery.autocomplete.css"
+  ],
+  "authors": [
+    "radishj <423261989@qq.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "airpoint",
+    "airpointselector"
+  ],
+  "homepage": "https://github.com/RadishJ/jquery.autocomplete",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.7.0"
+  }
+}
